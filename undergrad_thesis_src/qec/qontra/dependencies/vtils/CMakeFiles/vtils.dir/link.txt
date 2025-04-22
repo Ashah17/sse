@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvtils.a CMakeFiles/vtils.dir/src/vtils/cmd_parse.cpp.o CMakeFiles/vtils.dir/src/vtils/filesystem.cpp.o CMakeFiles/vtils.dir/src/vtils/ini_parse.cpp.o CMakeFiles/vtils.dir/src/vtils/linprog/base.cpp.o
+/usr/bin/ranlib libvtils.a

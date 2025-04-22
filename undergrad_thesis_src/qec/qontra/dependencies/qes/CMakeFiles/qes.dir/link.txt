@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqes.a CMakeFiles/qes.dir/src/qes/lang/parse.cpp.o CMakeFiles/qes.dir/src/qes/lang/parse_impl.cpp.o CMakeFiles/qes.dir/src/qes/util/lexer.cpp.o CMakeFiles/qes.dir/src/qes/util/llparser.cpp.o
+/usr/bin/ranlib libqes.a
